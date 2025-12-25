@@ -24,9 +24,6 @@ I enjoy learning modern technologies and improving my problem-solving skills thr
 ---
 
 ### 📊 GitHub Activity
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ddeepakgoutam2005&theme=midnight-purple" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ddeepakgoutam2005&theme=midnight-purple" />
 
