@@ -1,13 +1,12 @@
 <div align="center">
-   <h1>Hi, I am Abhijay Shah </h1>
+   <h1>Hi, I am Deepak Goutam </h1>
    <p align="center">
   <img width="300" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g">
 </p>
 
  
 
-## Founder : catcatchcode.online
-### I am a MERN Stack Developer, Blockchain Developer and CSE Student at VIT Bhopal University 🚀!!
+### I am a MERN Stack Developer, Problem Solver and CSE Student at VIT Bhopal University 🚀!!
 
 
 
