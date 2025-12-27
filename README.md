@@ -66,13 +66,7 @@ I enjoy learning modern technologies and improving my problem-solving skills thr
 
 </p>
 
-<p align="center">
 
-<a href="https://www.youtube.com/@deepakgoutam2005" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</p>
 
 ---
 
